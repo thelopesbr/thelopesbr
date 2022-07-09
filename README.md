@@ -1,4 +1,4 @@
-## Hello there 👋
+## 👋 Hello there, my name is Jeferson Lopes
 
 ### 🤔 About Me
 Information Systems student at **[Universidade Federal do Rio Grande](https://www.furg.br/en/)**. Backend web developer intern at **[MarBrasil](https://marbrasil.org)**. Geek culture lover. Currently living in São José do Norte, Brazil.
@@ -21,6 +21,11 @@ Information Systems student at **[Universidade Federal do Rio Grande](https://ww
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
 
+![thelopesbr github stats](https://github-readme-stats.vercel.app/api?username=thelopesbr&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+<!---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thelopesbr&theme=dark)
+--->
+---
 
 ### 📬 Get in Touch
 * **[E-mail](mailto:jefersonlopes.sjn@hotmail.com)**

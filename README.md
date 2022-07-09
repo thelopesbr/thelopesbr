@@ -1,16 +1,28 @@
-### Hi there 👋
+## Hello there 👋
 
-<!--
-**thelopesbr/thelopesbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤔 About Me
+Information Systems student at **[Universidade Federal do Rio Grande](https://www.furg.br/en/)**. Backend web developer intern at **[MarBrasil](https://marbrasil.org)**. Geek culture lover. Currently living in São José do Norte, Brazil.
 
-Here are some ideas to get you started:
+* 🎓 I’m currently studying **Information Systems** at **FURG** (3/4) 
+* 🏢 I'm currently working at **MarBrasil**
+* 🌱 I’m currently studying **Python**, **Django** & **Docker**
+* 📚 Aiming to study **JavaScript** & **Node.js**, 
+* ⚡ Fun fact: My favorite game is GTA V
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb) 
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) 
+![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
+
+
+### 📬 Get in Touch
+* **[E-mail](mailto:jefersonlopes.sjn@hotmail.com)**
+* **[Instagram](https://instagram.com/thelopesbr)**
+* **[LinkedIn](https://www.linkedin.com/in/jeferson-lopes-08a240214/)**

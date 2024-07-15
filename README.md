@@ -3,11 +3,8 @@
 ### 🤔 About Me
 Information Systems student at **[Universidade Federal do Rio Grande](https://www.furg.br/en/)**. Backend web developer intern at **[MarBrasil](https://marbrasil.org)**. Geek culture lover. Currently living in São José do Norte, Brazil.
 
-* 🎓 I’m currently studying **Information Systems** at **FURG** (3/4) 
-* 🏢 I'm currently working at **MarBrasil**
-* 🌱 I’m currently studying **Python**, **Django** & **Docker**
-* 📚 Aiming to study **JavaScript** & **Node.js**, 
-* ⚡ Fun fact: My favorite game is GTA V
+* 🎓 I have a degree in **Information Systems** at **FURG** (3/4) 
+* 🏢 I'm currently working at **ITec/FURG-Embrapii - Centro de Robótica e Ciência de Dados**
 
 ### ⚙️ Tech Stack
 

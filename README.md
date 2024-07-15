@@ -1,7 +1,7 @@
 ## 👋 Hello there, my name is Jeferson Lopes
 
 ### 🤔 About Me
-Information Systems student at **[Universidade Federal do Rio Grande](https://www.furg.br/en/)**. Backend web developer intern at **[MarBrasil](https://marbrasil.org)**. Geek culture lover. Currently living in São José do Norte, Brazil.
+Graduated in Information Systems from **[Universidade Federal do Rio Grande](https://www.furg.br/en/)**. Developer at **[Itec/FURG-EMbrapii](https://www.linkedin.com/company/unidade-furg-embrapii-centro-de-robotica-e-ciencia-de-dados/)**. Geek culture lover. Currently living in São José do Norte, Brazil.
 
 * 🎓 I have a degree in **Information Systems** at **FURG** (3/4) 
 * 🏢 I'm currently working at **ITec/FURG-Embrapii - Centro de Robótica e Ciência de Dados**
